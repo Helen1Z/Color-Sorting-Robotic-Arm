@@ -1,5 +1,5 @@
                            
-<br/>
+
 <div align="center">
 <img src="https://github.com/Helen1Z/Color-Sorting-Robotic-Arm/blob/main/simulation/box_pickup.png" width="400" title="box_pickup"/>
 <h3 align="center">Color Sorting Robotic Arm</h3>
@@ -29,6 +29,8 @@ The Color Sorting Robotic Arm is an innovative automation project designed to so
 ## Getting Started
  
  ### Installation
+ 
+<p>Please follow the following steps for successful installation:</p>
 
 1. Clone the repo
    ```sh
