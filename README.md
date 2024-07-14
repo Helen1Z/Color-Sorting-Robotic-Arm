@@ -37,6 +37,19 @@ The Color Sorting Robotic Arm is an innovative automation project designed to so
    gh repo clone Helen1Z/Color-Sorting-Robotic-Arm
    ```
 2. Install <a href="https://coppeliarobotics.com/previousVersions">CoppeliaSim Edu v4.6.0 rev .18</a> for best compatibility.
+
+## Features
+
+- The robotic arm moves over the position where an object should be picked up.
+- An object is expected to be detected by a color detection sensor on the conveyor belt.
+- The robotic arm picks up the detected object.
+- The detected object is picked up by the robotic arm.
+- The robotic arm returns to the starting position.
+- The detected object is moved to the correct bin.
+- The robotic arm releases the object.
+- If the bin is full, it is emptied based on a threshold we define in code.
+
+
  ## Usage
 
 Here are some examples of the simulation program running:
