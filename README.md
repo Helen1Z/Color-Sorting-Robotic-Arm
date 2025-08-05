@@ -32,11 +32,11 @@ The Color Sorting Robotic Arm is an innovative automation project designed to so
  
 <p>Please follow the following steps for successful installation:</p>
 
-1. Clone the repo
+1. **Clone the repo**.
    ```sh
-   gh repo clone helenzina/Color-Sorting-Robotic-Arm
+   git clone https://github.com/helenzina/Color-Sorting-Robotic-Arm
    ```
-2. Install <a href="https://coppeliarobotics.com/previousVersions">CoppeliaSim Edu v4.6.0 rev .18</a> for best compatibility.
+2. **Install <a href="https://coppeliarobotics.com/previousVersions">CoppeliaSim Edu v4.6.0 rev .18</a> for best compatibility**.
 
 ## Features
 
